@@ -37,4 +37,4 @@
             Det kanske var just Adas intresse att blanda matematik, logik, fantasi och poesi som gjorde att hon såg saker på ett annorlunda sätt.</h3>
             <h2>Källor</h2>
             <h3>Hollings C, Martin U, Rice A. (2018). Ada Lovelace: The Making of a Computer Scientist</h3>
-            <a href="https://en.wikipedia.org/wiki/Ada_Lovelace"></a>
+            
